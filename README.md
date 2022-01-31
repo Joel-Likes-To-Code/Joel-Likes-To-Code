@@ -24,7 +24,7 @@ Since then I have been working at Code Fellows as a teaching assistant while stu
 
 Down Below I have pinned a few of my favorite projects I have worked on. 
 
-* [Azure Skies](https://github.com/zgameboyz/CandyRollerPlayDemo) is a web application created using .NET, C#, and Azure. *Currently inactive due to Azure upkeep costs.* A user can text their flight ICAO number to the provided phone number to subscribe to the service. Our service will periodically check the flight API and return the users flight status such as Delayed, On Time, etc. 
+* [Azure Skies](https://github.com/zgameboyz/CandyRollerPlayDemo) is a web application created using .NET, C#, and Azure. (**Currently inactive due to Azure upkeep costs.**)A user can text their flight ICAO number to the provided phone number to subscribe to the service. Our service will periodically check the flight API and return the users flight status such as Delayed, On Time, etc. 
 
 </br>
 
