@@ -4,15 +4,19 @@ I'm a passionate software developer and aspiring deep learning expert currently 
 
 🌟 Key Experiences:
 
-Software Engineering Intern at Argonne National Laboratory: Developed robust software solutions, collaborated with multidisciplinary teams, and honed my skills in building efficient, scalable systems.
+Software Engineering Intern at Argonne National Laboratory: Developed robust software solutions, collaborated with a multidisciplinary team, and honed my skills in building efficient, scalable web applications.
 
-Coding Bootcamp Graduate & Tutor: Graduated from the Code Fellows software development bootcamp and subsequently tutored other students. 
+Graduated with a Bachelor's of Applied Science in Software Development with a concentration in AI June 2025. 
+
+Coding Bootcamp Graduate & Tutor: Graduated from the Code Fellows software development bootcamp focused on full-stack web development using React. Subsequently tutored other aspiring graduates after receiving my certificate. 
 
 🛠️ Technologies & Skills:
 
 Programming Languages: Python, C#, JavaScript, TypeScript, etc.
 
 Frameworks & Libraries: React, Svelte, FASTAPI, TensorFlow, PyTorch
+
+SQL: T-SQL, DBeaver, MSSQL
 
 Tools & Platforms: Git, GitLab, Docker, AWS, Kubernetes
 
