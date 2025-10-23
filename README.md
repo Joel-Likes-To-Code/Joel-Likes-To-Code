@@ -38,4 +38,4 @@ I’m eager to collaborate, learn, and grow with others in the tech community.
 
 📧 Email: joel.connell.work@gmail.com
 
-💼 LinkedIn: linkedin.com/in/joel-connell
+💼 LinkedIn: [linkedin.com/in/joel-connell](https://www.linkedin.com/in/joel-connell/)
