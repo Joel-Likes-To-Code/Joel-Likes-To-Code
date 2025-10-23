@@ -35,5 +35,7 @@ Building systems that combine practical software engineering with human-centered
 📫 Let’s Connect
 
 I’m eager to collaborate, learn, and grow with others in the tech community.
+
 📧 Email: joel.connell.work@gmail.com
+
 💼 LinkedIn: linkedin.com/in/joel-connell
