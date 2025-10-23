@@ -1,34 +1,39 @@
-Hello, I'm Joel Connell 👋
+👋 Hello, I'm Joel Connell
 
-I'm a passionate software developer and aspiring deep learning expert currently pursuing a Bachelor of Applied Science in Software Development with a specialization in Artificial Intelligence at Bellevue College. I have also graduated from the Code Fellows full-stack development boot camp. With a blend of academic rigor, practical experience, and enthusiasm for continuous learning, my goal is to build innovative solutions at the intersection of software engineering and machine learning.
+I’m a passionate software developer and AI enthusiast pursuing a Bachelor of Applied Science in Software Development (Artificial Intelligence concentration) at Bellevue College (graduating June 2025).
+A graduate of the Code Fellows full-stack development bootcamp, I combine academic rigor, hands-on project work, and continuous learning to build thoughtful, reliable, and innovative software solutions.
 
-🌟 Key Experiences:
+🌟 Key Experiences
 
-Software Engineering Intern at Argonne National Laboratory: Developed robust software solutions, collaborated with a multidisciplinary team, and honed my skills in building efficient, scalable web applications.
+Software Engineering Intern – Argonne National Laboratory
+Collaborated with a multidisciplinary team of scientists, designers, and developers to transform complex Excel-based tools into a full-stack web application. Gained experience in full-stack development, testing, and Agile collaboration.
 
-Graduated with a Bachelor's of Applied Science in Software Development with a concentration in AI June 2025. 
+Full-Stack Bootcamp Graduate & Tutor – Code Fellows
+Completed an intensive bootcamp focused on React and JavaScript/TypeScript. Later tutored students in web development fundamentals, helping others strengthen problem-solving and debugging skills.
 
-Coding Bootcamp Graduate & Tutor: Graduated from the Code Fellows software development bootcamp focused on full-stack web development using React. Subsequently tutored other aspiring graduates after receiving my certificate. 
+Academic Projects
+Built AI-driven applications and data-centric tools that integrate machine learning models, APIs, and cloud services for practical problem solving.
 
-🛠️ Technologies & Skills:
+🛠️ Technologies & Skills
 
-Programming Languages: Python, C#, JavaScript, TypeScript, etc.
+Languages: Python, C#, TypeScript, JavaScript, Java, SQL (T-SQL)
+Frameworks & Libraries: React, Next.js, Svelte, ASP.NET Core, FastAPI, TensorFlow, PyTorch, Pandas, NumPy
+Databases & Tools: PostgreSQL, MSSQL, DBeaver, Prisma, Supabase
+Cloud & DevOps: AWS, Docker, Kubernetes, Git, GitHub, GitLab, CI/CD
+Core CS: Data Structures & Algorithms, OOP, Design Patterns, RESTful APIs, Agile/Scrum
 
-Frameworks & Libraries: React, Svelte, FASTAPI, TensorFlow, PyTorch
+📚 Interests & Learning
 
-SQL: T-SQL, DBeaver, MSSQL
+Software engineering, AI/ML, and mathematics, game development
 
-Tools & Platforms: Git, GitLab, Docker, AWS, Kubernetes
+Improving chatbot intelligence and applied NLP
 
-📚 Academic & Personal Interests:
+Exploring philosophy, psychology, and cognitive science
 
-Passionate about Software Development, AI/ML, and mathematics.
+Building systems that combine practical software engineering with human-centered design
 
-Enthusiastic about interdisciplinary learning, particularly in philosophy, psychology, physics, and computer programming.
+📫 Let’s Connect
 
-Always open to exploring how emerging technologies can positively impact real-world challenges. I am particularly interested in how chatbots can be improved in customer service. 
-
-📫 Let's Connect:
-
-I'm eager to collaborate, learn, and grow with others in the tech community. Feel free to reach out through LinkedIn or drop me an email!
-
+I’m eager to collaborate, learn, and grow with others in the tech community.
+📧 Email: joel.connell.work@gmail.com
+💼 LinkedIn: linkedin.com/in/joel-connell
